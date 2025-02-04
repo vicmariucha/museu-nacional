@@ -8,11 +8,11 @@ Este é um projeto desenvolvido durante um curso de **HTML, CSS e JavaScript** e
 - Seção de eventos e agenda
 - Formulário de contato
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias utilizadas
 - **HTML5** → Estruturação da página
 - **CSS3** → Estilização
 
-## 🚀 Como Rodar o Projeto
+## 🚀 Como rodar o projeto
 
 1. Clone este repositório:
    ```sh
@@ -24,7 +24,7 @@ Este é um projeto desenvolvido durante um curso de **HTML, CSS e JavaScript** e
    ```
 3. Abra o arquivo `index.html` no seu navegador.
 
-## 📷 Capturas de Tela
+## 📷 Capturas de tela
 ![Página inicial do Museu Nacional](https://cdn.discordapp.com/attachments/1089566799714078840/1335951504539914260/image.png?ex=67a2094b&is=67a0b7cb&hm=965149aa4b4058e6f4fdc3629b4336c3623d724301f02df7664fc1d5d5a4bea8&)
 
 ## 📝 Licença
